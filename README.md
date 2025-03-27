@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeho-ro%2Fdaeho-ro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://www.credly.com/badges/146b9c62-6920-41ee-ad7d-21aa426fd3cb"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120px></a>
 <a href="https://www.credly.com/badges/ffafd6d0-02de-4501-8df4-6e271b5cfd3d"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=120px></a>
