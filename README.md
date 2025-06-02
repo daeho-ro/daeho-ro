@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=daeho-ro&style=for-the-badge)
+
 ## AWS Certificates
 
 <a href="https://www.credly.com/badges/146b9c62-6920-41ee-ad7d-21aa426fd3cb"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120px /></a>
