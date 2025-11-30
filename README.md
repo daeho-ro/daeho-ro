@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=daeho-ro&style=for-the-badge)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/daeho)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/daeho.ro)
 
 ## AWS Certificates
 
