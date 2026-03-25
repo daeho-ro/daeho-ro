@@ -14,4 +14,6 @@
 
 ## Git Animals
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daeho-ro&utm_content=farm"><img src="https://render.gitanimals.org/farms/daeho-ro" width="100%" /></a>
+<div style="
+<a href="https://www.gitanimals.org"><img src="https://render.gitanimals.org/farms/daeho-ro" width="49.5%" /></a>
+<a href="https://www.gitanimals.org/guild/680048729661395855"><img src="https://render.gitanimals.org/guilds/680048729661395855/draw" width="49.5%" /></a>
